@@ -6,7 +6,7 @@ static const char mainPage[] PROGMEM = u8R"(
 <head>
     <script>
          // 請填入你的 GitHub 使用者名稱
-        var username = "cplooo";
+        var username = "qsc91721";
 
         url = "https://" + username + ".github.io/FM611A/door_lock";
         window.location.href = url;
